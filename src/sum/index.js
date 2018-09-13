@@ -10,7 +10,8 @@
 * sum(-1, 13); // 12
 */
 const sum = (a, b) => {
-  /* your logic here...*/
+  let c = a + b;
+  return c;
 };
 
 export default sum;
